@@ -1,0 +1,46 @@
+body{
+    background-color: #F9F9F9;
+
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    margin-left: 120px;
+    margin-right: 28px;
+    align-items:center;
+}
+
+
+h1 {
+    font-family: 'Baloo 2';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 68px;
+    line-height: 70px;
+    letter-spacing: 0.025em;  
+    color: #232323;
+    margin-bottom: 0px;
+    
+}
+
+p {
+    width: 477px;
+    height: 44px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #232323;
+    
+}
+
+#image{
+    flex-direction: row;
+    width: 665px;
+    height: 456px;
+    margin-left: 76px;
+}
+
